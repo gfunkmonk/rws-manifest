@@ -18,6 +18,6 @@
   <project name="pebble-dev/rebble-dev-compose" path="dev/rws-compose" />
   <project name="pebble-dev/rebble-dev-infra-oauth-redir" path="dev/infra/pebble-oauth-redir" />
   <project name="pebble-dev/rebble-asr" path="apps/voice" />
-                
+  <project name="rebble-prod-infra-gke" path="prod/infra/gke" />
                  
 </manifest>
